@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
-_s
+HMNA
 ===
 
 Hi. I'm a starter theme called HMNA. I've been design with two objectives in mind.  First to be highly hackable, as a matter of fact, I'm based on `_s`, or `underscores` by automattic. Secondly, I'm HIHGHLY readable, as a matter of fact. I'm all about the text content. Feel free to download me, edit, copy, hack and love me.
