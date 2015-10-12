@@ -4,7 +4,7 @@ HMNA
 ===
 Please visit [this blog](http://humana.org.mx/blog) for a demo
 
-Hi. I'm a starter theme called HMNA. I've been design with two objectives in mind.  First to be highly hackable, as a matter of fact, I'm based on `_s`, or `underscores` by automattic. Secondly, I'm HIHGHLY readable, as a matter of fact. I'm all about the text content. Feel free to download me, edit, copy, hack and love me.
+Hi. I'm a starter theme called HMNA. I've been design with two objectives in mind.  First to be highly hackable, as a matter of fact, I'm based on `_s`, or `underscores` by automattic. Secondly, I'm HIGHLY readable, as a matter of fact. I'm all about the text content. Feel free to download me, edit, copy, hack and love me.
 
 My ultra-minimal CSS might make me look like theme tartare but that means less stuff to get in your way when you're designing your awesome theme. Here are some of the other more interesting things you'll find here:
 
